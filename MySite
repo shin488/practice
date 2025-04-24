@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>個人サイト</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>私の個人サイト</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>ここに自己紹介文を入れます。</p>
+        </section>
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+            <p>ここにポートフォリオの内容を入れます。</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>ここに連絡先情報を入れます。</p>
+        </section>
+    </main>
+    <footer>
+        2025 私の個人サイト</p>
+    </footer>
+</body>
+</html>
